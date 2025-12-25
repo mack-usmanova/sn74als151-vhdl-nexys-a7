@@ -133,6 +133,11 @@ This project maps everything to on-board switches and LEDs so you can test witho
 
 ---
 
-## Report
+## Report 
 
 The write-up + screenshots are in the submitted PDF under `report/`.
+
+
+## Demo video
+
+I also have a video uploaded above showing the project functioning.
